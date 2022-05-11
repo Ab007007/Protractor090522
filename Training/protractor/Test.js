@@ -15,3 +15,6 @@ describe('angularjs homepage todo list', function() {
       expect(completedAmount.count()).toEqual(2);
     });
   });
+
+
+  
