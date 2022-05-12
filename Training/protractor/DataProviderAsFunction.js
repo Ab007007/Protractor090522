@@ -13,30 +13,25 @@ describe('Async Demo of JS', () => {
     function testdata() {
         return [
             {a:120, b: 11},
+            {a:10 , b: 11},
+            {a:20 , b: 11},
+            {a:120, b: 131},
             {a:120, b: 131}
         ]
     }
-
-    beforeEach(function() {
-        browser.get(Objects.angularUrl)
-        browser.driver.manage().window().maximize();
-        console.log("Before Each " + Objects.angularUrl);
-    })
     using(testdata,function(data){
         it('Mathemetical Operation Test', () => {
+            browser.get(Objects.angularUrl)
+           //MODULO,ADDITION,MULTIPLICATION,SUBTRACTION
            perform(data.a, data.b,'SUBTRACTION')
-           // element(by.repeater(''));
-           element(by.binding('latest')).getText().then(function(result){
+            
+            // element(by.repeater(''));
+            element(by.binding('latest')).getText().then(function(result){
                 console.log(`SUBTRACTION Result :  ${result}`);
             });
+    
+        //    expect(element(by.binding('latest')).getText()).toBe('200')
+          
         });
     })
-
-    it('Mathemetical Operation Test', () => {
-        perform(11, 22,'ADDITION')
-        // element(by.repeater(''));
-        element(by.binding('latest')).getText().then(function(result){
-             console.log(`SUBTRACTION Result :  ${result}`);
-         });
-     });
 });

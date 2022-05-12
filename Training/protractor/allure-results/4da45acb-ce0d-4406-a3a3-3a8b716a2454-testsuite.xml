@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652351138837' stop='1652351161426'>
+    <name>Async Demo of JS</name>
+    <title>Async Demo of JS</title>
+    <test-cases>
+        <test-case start='1652351138838' status='failed' stop='1652351161425'>
+            <name>First Test</name>
+            <title>First Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expected '110' to be 11.</message>
+                <stack-trace>Error: Failed expectation
+                    at D:\Synechron_09_May\Training\protractor\AdditionDemo.js:13:32
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\built\element.js:804:32
+                    at ManagedPromise.invokeCallback_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

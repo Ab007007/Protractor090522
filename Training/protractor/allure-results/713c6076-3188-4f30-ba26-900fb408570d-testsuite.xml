@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652332030277' stop='1652332063375'>
+    <name>Async Demo of JS</name>
+    <title>Async Demo of JS</title>
+    <test-cases>
+        <test-case start='1652332030277' status='passed' stop='1652332034861'>
+            <name>SUBTRACTION Test</name>
+            <title>SUBTRACTION Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652332034861' status='passed' stop='1652332057990'>
+            <name>Division Test</name>
+            <title>Division Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652332057990' status='passed' stop='1652332060710'>
+            <name>MODULO Test</name>
+            <title>MODULO Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652332060711' status='passed' stop='1652332063373'>
+            <name>MULTIPLICATION Test</name>
+            <title>MULTIPLICATION Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

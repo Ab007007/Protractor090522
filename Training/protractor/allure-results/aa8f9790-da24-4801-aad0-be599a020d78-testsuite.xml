@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652349155913' stop='1652349194153'>
+    <name>Async Demo of JS</name>
+    <title>Async Demo of JS</title>
+    <test-cases>
+        <test-case start='1652349155914' status='passed' stop='1652349160679'>
+            <name>Mathemetical Operation Test</name>
+            <title>Mathemetical Operation Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652349160680' status='passed' stop='1652349185859'>
+            <name>Mathemetical Operation Test</name>
+            <title>Mathemetical Operation Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652349185859' status='passed' stop='1652349188591'>
+            <name>Mathemetical Operation Test</name>
+            <title>Mathemetical Operation Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652349188591' status='passed' stop='1652349191437'>
+            <name>Mathemetical Operation Test</name>
+            <title>Mathemetical Operation Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652349191437' status='passed' stop='1652349194152'>
+            <name>Mathemetical Operation Test</name>
+            <title>Mathemetical Operation Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

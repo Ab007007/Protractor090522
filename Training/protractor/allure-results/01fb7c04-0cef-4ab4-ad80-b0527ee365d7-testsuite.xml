@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652338425787' stop='1652338439394'>
+    <name>NON ANGULAR APPLICATIONS </name>
+    <title>NON ANGULAR APPLICATIONS </title>
+    <test-cases>
+        <test-case start='1652338425787' status='passed' stop='1652338439392'>
+            <name>Simply form filling application</name>
+            <title>Simply form filling application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

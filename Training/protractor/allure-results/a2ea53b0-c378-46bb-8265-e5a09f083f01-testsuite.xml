@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652351161433' stop='1652351165967'>
+    <name>Name of the scenrio</name>
+    <title>Name of the scenrio</title>
+    <test-cases>
+        <test-case start='1652351161433' status='passed' stop='1652351165763'>
+            <name>Name of the Test-1</name>
+            <title>Name of the Test-1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652351165763' status='passed' stop='1652351165865'>
+            <name>Name of the Test-2</name>
+            <title>Name of the Test-2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1652351165865' status='passed' stop='1652351165966'>
+            <name>Name of the Test-3</name>
+            <title>Name of the Test-3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

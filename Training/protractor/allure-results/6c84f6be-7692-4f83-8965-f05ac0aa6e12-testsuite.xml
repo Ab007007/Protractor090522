@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652350809450' stop='1652350814349'>
+    <name>POM TEST</name>
+    <title>POM TEST</title>
+    <test-cases>
+        <test-case start='1652350809450' status='passed' stop='1652350814347'>
+            <name>First POM</name>
+            <title>First POM</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

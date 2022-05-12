@@ -1,0 +1,14 @@
+{
+    "url" : "https://jqueryui.com/droppable/",
+    "angularUrl" : "http://juliemr.github.io/protractor-demo/",
+
+    "locators" : {
+        "jqueryPage" : {
+            "sourceEle" : "draggable",
+            "destinationEle"  : "droppable"
+        }
+    },
+    
+    "num1" : 200,
+    "num2" : 400
+}

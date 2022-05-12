@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1652348134713' stop='1652348156434'>
+    <name>NON ANGULAR APPLICATIONS </name>
+    <title>NON ANGULAR APPLICATIONS </title>
+    <test-cases>
+        <test-case start='1652348134714' status='passed' stop='1652348156432'>
+            <name>Read data from json </name>
+            <title>Read data from json </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
